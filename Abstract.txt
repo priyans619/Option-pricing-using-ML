@@ -1,0 +1,7 @@
+Advanced machine learning examines the application of neural networks in the context of
+option pricing valuation.Different parameters are tested and compared in order to achieve
+better performance and higher accuracy in option valuation.If we talk about neural
+networks different layers are used in better training of the model.We already calculated
+option for Black-Schholes formula.Benchmark for the deep learning will be how we use
+the size and number of hidden layers in the neural network to calculate option prices from
+deep learning.
