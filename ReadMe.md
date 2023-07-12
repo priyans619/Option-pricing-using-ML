@@ -1,5 +1,5 @@
-To implement deep learning algorithm in option pricing and compare the result with Black
-Scholes formula for calculating options.
+**To implement deep learning algorithm in option pricing and compare the result with Black
+Scholes formula for calculating options.**
 
 Option Price Basics:
 
