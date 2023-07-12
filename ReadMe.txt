@@ -1,7 +1,7 @@
-To implement deep learning algorithm in option pricing and compare the result with Black
+## To implement deep learning algorithm in option pricing and compare the result with Black
 Scholes formula for calculating options.
 
-Option Price Basics:
+##Option Price Basics:
 
 1. Options are high risky derivatives that give option buyers the right to buy/sell a
    security at price on or before maturity.
