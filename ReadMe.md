@@ -27,6 +27,6 @@
     - **ReLU**
     - **LeakyReLU**
 
-4. The loss function used is MSE
+4. The loss function used is **MSE**
 5. Epoch = 30
 6. Batch size = 100
