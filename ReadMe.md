@@ -10,7 +10,7 @@
    exercised less than strike price.
 4. Extrinsic value is remaining value which exceeds the intrinsic value in premiums
 
-Step for parameter and training model:-
+## Step for parameter and training model:-
 
 1. Creating Dataset - We randomly generated data of 300,000 option calls.
 2. Training Set - Comprises of 2,40,000 call prices.
