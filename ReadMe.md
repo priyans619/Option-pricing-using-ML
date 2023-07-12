@@ -12,7 +12,7 @@
 
 ## Step for parameter and training model:-
 
-1. Creating Dataset - We randomly generated data of 300,000 option calls.
+1. Creating Dataset - We randomly generated data of **300,000** option calls.
 2. Training Set - Comprises of **2,40,000** call prices.
 3. Validation set - **60,000** prices.
 4. Pricing function is linearly normalized **i.e,C(S, K)/K = C(S/K, 1)**
