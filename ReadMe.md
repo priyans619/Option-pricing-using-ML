@@ -20,7 +20,7 @@
 
 ## Details of Deep neural network
 
-1. The size of input is 6 parameters
+1. The size of input is **6 parameters**
 2. Passed with 4 hidden layers consisting of 100 neurons each.
 3. At each layer we have used different Activation function according to the inputs that are
     - ELU
