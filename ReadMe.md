@@ -18,7 +18,7 @@
 4. Pricing function is linearly normalized i.e,C(S, K)/K = C(S/K, 1)
 5. Finally the normalized data is fit into deep net. 
 
-Details of Deep neural network
+## Details of Deep neural network
 
 1. The size of input is 6 parameters
 2. Passed with 4 hidden layers consisting of 100 neurons each.
