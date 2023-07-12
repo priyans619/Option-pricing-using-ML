@@ -23,9 +23,9 @@
 1. The size of input is **6 parameters**
 2. Passed with **4 hidden layers** consisting of **100 neurons** each.
 3. At each layer we have used different Activation function according to the inputs that are
-    - ELU
-    - ReLU
-    - LeakyReLU
+    - **ELU**
+    - **ReLU**
+    - **LeakyReLU**
 
 4. The loss function used is MSE
 5. Epoch = 30
