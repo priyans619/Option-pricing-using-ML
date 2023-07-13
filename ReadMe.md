@@ -4,7 +4,7 @@
 
 1. Options are high **risky derivatives** that give option buyers the right to buy/sell a
    security at price on or before maturity.
-2. Price of options is also called premiums which consist of sum of its intrinsic and
+2. Price of options is also called **premiums** which consist of sum of its intrinsic and
    extrinsic value.
 3. **Intrinsic value** is the amount of money received immediately if an option were
    exercised less than strike price.
