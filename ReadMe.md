@@ -32,3 +32,5 @@
 6. Batch size = 100
 
 ## These are the basics for learning Neural network for Financial models. There are many models Black-Scholes is one
+
+# Enjoy !!
